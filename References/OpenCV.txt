@@ -2,6 +2,9 @@ How to use openCv for video processing:-
 
 -> OpenCV video I/O tutorial: 
     https://docs.opencv.org/4.x/dd/d43/tutorial_py_video_display.html
-    
+
 -> Drawing on frames: 
     https://docs.opencv.org/4.x/dc/da5/tutorial_py_drawing_functions.html
+
+
+Biomecahnics of basketball research paper:- https://ir.kdu.ac.lk/bitstream/handle/345/8863/FOE%20Proceeding%20%28pages%20123-129%29%20-24.pdf?sequence=1

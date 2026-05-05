@@ -1,15 +1,3 @@
-"""
-Basketball Shooting Form Analyzer - Phase 1
-============================================
-Pose extraction using MediaPipe.
-Extracts key joint angles from a shooting video and overlays skeleton.
-
-Usage:
-    python pose_extractor.py --input your_video.mp4
-    python pose_extractor.py --input your_video.mp4 --output output.mp4
-    python pose_extractor.py --webcam   (live webcam mode)
-"""
-
 import cv2
 import mediapipe as mp
 import numpy as np
